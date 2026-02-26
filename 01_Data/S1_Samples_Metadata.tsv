@@ -1,0 +1,99 @@
+filename	filename_original	ATTRIBUTE_PopulationDensity	ATTRIBUTE_River_km	ATTRIBUTE_SampleDate	ATTRIBUTE_Type_1	ATTRIBUTE_Type_2	ATTRIBUTE_RiverGroup
+B1_both_1.mzML	B1_both_1.mzML			20230511	Blank	Blank	Spree
+B1_both_2.mzML	B1_both_2.mzML			20230511	Blank	Blank	Spree
+B2_both_1.mzML	B2_both_1.mzML			20230511	Blank	Blank	Spree
+B2_both_2.mzML	B2_both_2.mzML			20230511	Blank	Blank	Spree
+B3_both_1.mzML	B3_both_1.mzML			20230511	Blank	Blank	Spree
+B3_both_2.mzML	B3_both_2.mzML			20230511	Blank	Blank	Spree
+N1_both_1.mzML	N01_both_1.mzML	0	0	20230522	River	River	Neckar
+N1_both_2.mzML	N01_both_2.mzML	0	0	20230522	River	River	Neckar
+N1B_both_1.mzML	N01B_both_1.mzML			20230522	Blank	Blank	Neckar
+N1B_both_2.mzML	N01B_both_2.mzML			20230522	Blank	Blank	Neckar
+N2_both_1.mzML	N02_both_1.mzML	242	79	20230522	River	River	Neckar
+N2_both_2.mzML	N02_both_2.mzML	242	79	20230522	River	River	Neckar
+Eyach_both_1.mzML	N02_T01_both_1.mzML	232	85	20230522	River	Tributary	Neckar
+Eyach_both_2.mzML	N02_T01_both_2.mzML	232	85	20230522	River	Tributary	Neckar
+N3_both_1.mzML	N03_both_1.mzML	289	120	20230522	River	River	Neckar
+N3_both_2.mzML	N03_both_2.mzML	289	120	20230522	River	River	Neckar
+N4_both_1.mzML	N04_both_1.mzML	380	155	20230522	River	River	Neckar
+N4_both_2.mzML	N04_both_2.mzML	380	155	20230522	River	River	Neckar
+Fils_both_1.mzML	N04_T02_both_1.mzML	402	156	20230522	River	Tributary	Neckar
+Fils_both_2.mzML	N04_T02_both_2.mzML	402	156	20230522	River	Tributary	Neckar
+N5_both_1.mzML	N05_both_1.mzML	545	182	20230522	River	River	Neckar
+N5_both_2.mzML	N05_both_2.mzML	545	182	20230522	River	River	Neckar
+N6_both_1.mzML	N06_both_1.mzML	558	187	20230522	River	River	Neckar
+N6_both_2.mzML	N06_both_2.mzML	558	187	20230522	River	River	Neckar
+Murr_both_1.mzML	N06_T03_both_1.mzML	575	188	20230522	River	Tributary	Neckar
+Murr_both_2.mzML	N06_T03_both_2.mzML	575	188	20230522	River	Tributary	Neckar
+N7_both_1.mzML	N07_both_1.mzML	574	204	20230522	River	River	Neckar
+N7_both_2.mzML	N07_both_2.mzML	574	204	20230522	River	River	Neckar
+Rems_both_1.mzML	N07_T04_both_1.mzML	354	205	20230522	River	Tributary	Neckar
+Rems_both_2.mzML	N07_T04_both_2.mzML	354	205	20230522	River	Tributary	Neckar
+N8_both_1.mzML	N08_both_1.mzML	560	223	20230522	River	River	Neckar
+N8_both_2.mzML	N08_both_2.mzML	560	223	20230522	River	River	Neckar
+Enz_both_1.mzML	N08_T05_both_1.mzML	448	226	20230522	River	Tributary	Neckar
+Enz_both_2.mzML	N08_T05_both_2.mzML	448	226	20230522	River	Tributary	Neckar
+N9_both_1.mzML	N09_both_1.mzML	528	255	20230522	River	River	Neckar
+N9_both_2.mzML	N09_both_2.mzML	528	255	20230522	River	River	Neckar
+Kocher_both_1.mzML	N09_T06_both_1.mzML	189	259	20230522	River	Tributary	Neckar
+Kocher_both_2.mzML	N09_T06_both_2.mzML	189	259	20230522	River	Tributary	Neckar
+Jagst_both_1.mzML	N09_T07_both_1.mzML	112	261	20230522	River	Tributary	Neckar
+Jagst_both_2.mzML	N09_T07_both_2.mzML	112	261	20230522	River	Tributary	Neckar
+N10_both_1.mzML	N10_both_1.mzML	406	304	20230522	River	River	Neckar
+N10_both_2.mzML	N10_both_2.mzML	406	304	20230522	River	River	Neckar
+Elsenz_both_1.mzML	N10_T08_both_1.mzML	259	309	20230522	River	Tributary	Neckar
+Elsenz_both_2.mzML	N10_T08_both_2.mzML	259	309	20230522	River	Tributary	Neckar
+N11_both_1.mzML	N11_both_1.mzML	390	334	20230522	River	River	Neckar
+N11_both_2.mzML	N11_both_2.mzML	390	334	20230522	River	River	Neckar
+N12_both_1.mzML	N12_both_1.mzML	408	362	20230522	River	River	Neckar
+N12_both_2.mzML	N12_both_2.mzML	408	362	20230522	River	River	Neckar
+PB1_both_1.mzML	PB1_both_1.mzML			20230504	Blank	Blank	Neckar
+PB1_both_2.mzML	PB1_both_2.mzML			20230504	Blank	Blank	Neckar
+S1_both_1.mzML	S01_both_1.mzML	0	0	20230511	River	River	Spree
+S1_both_2.mzML	S01_both_2.mzML	0	0	20230511	River	River	Spree
+S2_both_1.mzML	S08_both_1.mzML	245	38	20230511	River	River	Spree
+S2_both_2.mzML	S08_both_2.mzML	245	38	20230511	River	River	Spree
+S3_both_1.mzML	S11_both_1.mzML	236	48	20230511	River	River	Spree
+S3_both_2.mzML	S11_both_2.mzML	236	48	20230511	River	River	Spree
+S4_both_1.mzML	S13_both_1.mzML	271	61	20230511	River	River	Spree
+S4_both_2.mzML	S13_both_2.mzML	271	61	20230511	River	River	Spree
+S5_both_1.mzML	S18_both_1.mzML	169	90	20230511	River	River	Spree
+S5_both_2.mzML	S18_both_2.mzML	169	90	20230511	River	River	Spree
+Schwarzer_Schoeps_both_1.mzML	S19_both_1.mzML	61	97	20230511	River	Tributary	Spree
+Schwarzer Schoeps_both_2.mzML	S19_both_2.mzML	61	97	20230511	River	Tributary	Spree
+S6_both_1.mzML	S26_both_1.mzML	98	150	20230511	River	River	Spree
+S6_both_2.mzML	S26_both_2.mzML	98	150	20230511	River	River	Spree
+S7_both_1.mzML	S29_both_1.mzML	118	169	20230511	River	River	Spree
+S7_both_2.mzML	S29_both_2.mzML	118	169	20230511	River	River	Spree
+Berste_both_1.mzML	S43_both_1.mzML	35	173	20230511	River	Tributary	Spree
+Berste_both_2.mzML	S43_both_2.mzML	35	173	20230511	River	Tributary	Spree
+S8_both_1.mzML	S51_both_1.mzML	92	205	20230511	River	River	Spree
+S8_both_2.mzML	S51_both_2.mzML	92	205	20230511	River	River	Spree
+S9_both_1.mzML	S56_both_1.mzML	85	247	20230511	River	River	Spree
+S9_both_2.mzML	S56_both_2.mzML	85	247	20230511	River	River	Spree
+S10_both_1.mzML	S57_both_1.mzML	78	262	20230511	River	River	Spree
+S10_both_2.mzML	S57_both_2.mzML	78	262	20230511	River	River	Spree
+S11_both_1.mzML	S64_both_1.mzML	76	304	20230511	River	River	Spree
+S11_both_2.mzML	S64_both_2.mzML	76	304	20230511	River	River	Spree
+S12_both_1.mzML	S67_both_1.mzML	86	341	20230511	River	River	Spree
+S12_both_2.mzML	S67_both_2.mzML	86	341	20230511	River	River	Spree
+Erpe_both_1.mzML	S68_both_1.mzML	616	347	20230511	River	Tributary	Spree
+Erpe_both_2.mzML	S68_both_2.mzML	616	347	20230511	River	Tributary	Spree
+S13_both_1.mzML	S69_both_1.mzML	112	348	20230511	River	River	Spree
+S13_both_2.mzML	S69_both_2.mzML	112	348	20230511	River	River	Spree
+Dahme_both_1.mzML	S70_both_1.mzML	230	349	20230511	River	Tributary	Spree
+Dahme_both_2.mzML	S70_both_2.mzML	230	349	20230511	River	Tributary	Spree
+Wuhle_both_1.mzML	S71_both_1.mzML	4815	350	20230511	River	Tributary	Spree
+Wuhle_both_2.mzML	S71_both_2.mzML	4815	350	20230511	River	Tributary	Spree
+S14_both_1.mzML	S72_both_1.mzML	136	351	20230511	River	River	Spree
+S14_both_2.mzML	S72_both_2.mzML	136	351	20230511	River	River	Spree
+S15_both_1.mzML	S73_both_1.mzML	246	364	20230511	River	River	Spree
+S15_both_2.mzML	S73_both_2.mzML	246	364	20230511	River	River	Spree
+S16_both_1.mzML	S74_both_1.mzML	299	367	20230511	River	River	Spree
+S16_both_2.mzML	S74_both_2.mzML	299	367	20230511	River	River	Spree
+S17_both_1.mzML	S75_both_1.mzML	324	374	20230511	River	River	Spree
+S17_both_2.mzML	S75_both_2.mzML	324	374	20230511	River	River	Spree
+S18_both_1.mzML	S76_both_1.mzML	337	377	20230511	River	River	Spree
+S18_both_2.mzML	S76_both_2.mzML	337	377	20230511	River	River	Spree
+S19_both_1.mzML	S76a_both_1.mzML	343	382	20230511	River	River	Spree
+S19_both_2.mzML	S76a_both_2.mzML	343	382	20230511	River	River	Spree
