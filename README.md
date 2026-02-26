@@ -6,13 +6,16 @@ R code used to process and analyze positive and negative mode non-targeted LC-MS
 "Anthropogenic organic substances contribute substantially to the dissolved organic matter composition of urbanized rivers"
 Lana Graves, Christiane Zarfl, Tina Hirsch, Giovanni A. Vitale, Stephanie Spahr, Daniel Petras
 
-# R code by Lana Graves, 
+# R code by Lana Graves 
 Contact: lana.graves@uni-tuebingen.de
-Code run in RStudio
+
+Code run in RStudio.
 
 # Folder descriptions
 01_Data: Contains files with data that are used for data analysis
+
 02_Output_DataProduct: Destination folder that is populated with .csv files when the code is run
+
 03_Output_Figures: Destination folder that is populated with .pdf files when the code is run
 
 # How to run code
